@@ -1,0 +1,11 @@
+# Ignore large model files and caches
+*.npy
+*.faiss
+__pycache__/
+
+# Ignore virtual environment folders
+.env
+venv/
+
+# Ignore temporary or sensitive files
+*.json
